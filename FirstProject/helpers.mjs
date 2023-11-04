@@ -9,4 +9,3 @@ const connectToDatabase = () => {
 };
 
 export default connectToDatabase;
-//test
